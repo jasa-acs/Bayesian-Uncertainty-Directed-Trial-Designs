@@ -6,7 +6,7 @@
 
 ### Abstract 
 Examples and results in the article do not depend on external data. Parameters used in the
-simulation studies are available via the supplementary R file BUD_Simulations_JASA.R.
+simulation studies are available via the supplementary R file `BUD_Simulations_JASA.R`.
 
 ### Availability 
 Parameters used in the simulation studies are available via the supplementary R file
